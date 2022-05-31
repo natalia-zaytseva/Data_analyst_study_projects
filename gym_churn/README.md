@@ -13,8 +13,10 @@
 определенных признаков. 
 2. С помощью кластеризации составить портреты клиентов фитнес-клуба.
 
-**Используемые библиотеки**
-*Pandas, matplotlib, seaborn, sklearn, scipy.cluster.hierarchy*
+**Используемые библиотеки:**
 
-**Ключевые инструменты**
-*Алгоритмы LogisticRegression, RandomForestClassifier, KMeans; дендрограмма*
+*pandas, matplotlib, seaborn, sklearn, scipy.cluster.hierarchy*
+
+**Ключевые инструменты:**
+
+*Алгоритмы: LogisticRegression, RandomForestClassifier, KMeans; дендрограмма*
