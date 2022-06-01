@@ -17,6 +17,6 @@
 
 *pandas, matplotlib, seaborn, datetime, scipy.stats, math, statsmodels*
 
-**Ключевые инструменты:**
+**Ключевые навыки:**
 
 *Анализ логов, воронка событий, A/A/B-тестирование, z-test*
