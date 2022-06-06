@@ -17,4 +17,6 @@
 
 *Tableau*
 
+**Статус проекта:** закончен
+
 [Ссылка на дашборд на платформе Tableau Public](https://public.tableau.com/app/profile/tata.zaitseva/viz/__16529714108670/sheet12_1?publish=yes)
