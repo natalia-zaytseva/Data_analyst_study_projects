@@ -20,3 +20,5 @@
 **Ключевые инструменты:**
 
 *Алгоритмы: LogisticRegression, RandomForestClassifier, KMeans; дендрограмма*
+
+**Статус проекта:** закончен
