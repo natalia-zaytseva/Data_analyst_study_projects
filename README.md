@@ -8,6 +8,8 @@
 | [Поведение пользователей мобильного приложения](https://github.com/natalia-zaytseva/study_projects/tree/main/logs_analysis) | 1) Изучить поведение пользователей мобильного приложения по продаже продуктов питания; 2) По результатам A/A/B-эксперимента понять, имеет ли значение изменение шрифтов в приложении | *Анализ логов, воронка событий, A/A/B-тестирование, z-test* | *pandas, matplotlib, seaborn, datetime, scipy.stats, math, statsmodels* |
 | [Анализ взаимодействия пользователей с карточками Яндекс.Дзен](https://github.com/natalia-zaytseva/study_projects/tree/main/dashboard_zen) | 1) Автоматизировать процесс анализа взаимодействия пользователей с карточками Яндекс.Дзен - построить дашборд в Tableau; 2) Провести анализ взаимодействия пользователей с карточками Яндекс.Дзен на текущий момент | *Построение и анализ дашборда* | *Tableau* |
 | [Прогнозирование оттока клиентов фитнес клуба](https://github.com/natalia-zaytseva/study_projects/tree/main/churn_prediction) | 1) Составить модель прогнозирования оттока клиентов фитнес-клуба в зависимости от значения определенных признаков; 2) С помощью кластеризации составить портреты клиентов фитнес-клуба | *Алгоритмы: LogisticRegression, RandomForestClassifier, KMeans; дендрограмма* | *pandas, matplotlib, seaborn, sklearn, scipy.cluster.hierarchy* |
+| [E-commerce: Выявление профилей потребеления](https://github.com/natalia-zaytseva/Data_analyst_study_projects/tree/main/ecommerce_project) | 1) Выявление наиболее популярных и прибыльных категорий товаров интернет-магазина; 2) Выявление профилей потребления | *Визуализация, лемматизация, t-test, алгоритм KMeans, дендрограмма* | *pandas, matplotlib, seaborn, plotly, requests, pymorphy2, re, scipy.stats, scipy.cluster.hierarchy, sklearn*
+
 
 
 
