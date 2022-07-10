@@ -14,7 +14,7 @@
 
 **Используемые библиотеки:**
 
-*pandas, matplotlib, seaborn, plotly, requests, pymorphy2, re, scipy.stats, scipy.cluster.hierarchy, sklearn*
+*pandas, matplotlib, seaborn, plotly, pymorphy2, re, scipy.stats, scipy.cluster.hierarchy, sklearn*
 
 **Ключевые навыки:**
 
