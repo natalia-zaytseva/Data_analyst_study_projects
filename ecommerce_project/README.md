@@ -22,6 +22,6 @@
 
 **Статус проекта:** закончен
 
-[Ссылка на презентацию](https://disk.yandex.ru/i/g-ynaPVIXA1IxA)
+[Ссылка на презентацию на Яндекс.Диск](https://disk.yandex.ru/i/g-ynaPVIXA1IxA)
 
 [Ссылка на дашборд на платформе Tableau Public](https://public.tableau.com/app/profile/nataly4733/viz/-_16562567522410/Dashboard1?publish=yes)
