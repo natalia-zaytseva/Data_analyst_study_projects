@@ -14,10 +14,12 @@
 
 **Используемые библиотеки:**
 
-*pandas, matplotlib, seaborn, re*
+*pandas, matplotlib, seaborn, re, requests*
 
 **Ключевые навыки:**
 
 *Визуализация, подключение внешнего открытого источника данных*
 
 **Статус проекта:** закончен
+
+[Ссылка на презентацию на Яндекс.Диск](https://disk.yandex.ru/i/NsmEwHKGEp-TcQ)
