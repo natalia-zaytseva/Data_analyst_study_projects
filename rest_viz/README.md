@@ -14,7 +14,7 @@
 
 **Используемые библиотеки:**
 
-*pandas, matplotlib, seaborn, re, requests*
+*pandas, matplotlib, seaborn, plotly, re, requests*
 
 **Ключевые навыки:**
 
